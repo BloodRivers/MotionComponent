@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # MotionComponent
 A Godot Engine component that animates the position, rotation, or scale of a target node using smooth sinusoidal motion.
 
